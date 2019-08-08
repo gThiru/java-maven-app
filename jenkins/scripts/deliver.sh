@@ -26,3 +26,6 @@ set -x
 java -jar target/${NAME}-${VERSION}.jar
 
 echo $SHELL
+echo $SHELL
+echo $SHELL
+echo $SHELL
